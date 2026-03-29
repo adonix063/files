@@ -1,26 +1,10 @@
 {
   "currentUser": {
     "id": "default",
-    "files": [
-      {
-        "id": "70ec9f4a3",
-        "name": "70ec9f4a.exe",
-        "originalName": "Windows10Upgrade9252.exe",
-        "size": 3343496,
-        "type": "application/x-msdownload",
-        "repo": "adonix063/files-4",
-        "githubPath": "uploads/70ec9f4a3",
-        "url": "https://adofiles.i11.eu/dl/70ec9f4a.exe",
-        "uploadDate": 1774814238781,
-        "expiration": "5m",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 2
-      }
-    ]
+    "files": []
   },
   "systemStats": {
     "total_lifetime_uploads": 6,
-    "total_storage_bytes": 3343496
+    "total_storage_bytes": 0
   }
 }
