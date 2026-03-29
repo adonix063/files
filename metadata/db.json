@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "11c36842",
+        "name": "11c36842.exe",
+        "originalName": "RobloxPlayerInstaller.exe",
+        "size": 9961936,
+        "type": "application/x-msdownload",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/11c36842",
+        "url": "https://adofiles.i11.eu/dl/11c36842.exe",
+        "uploadDate": 1774812238191,
+        "expiration": "1h",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 4
+      },
+      {
         "id": "6c4a9553",
         "name": "6c4a9553.jpg",
         "originalName": "4e3ee769317c6876.jpg",
@@ -21,7 +36,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 1,
-    "total_storage_bytes": 613041
+    "total_lifetime_uploads": 2,
+    "total_storage_bytes": 10574977
   }
 }
