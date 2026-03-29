@@ -1,0 +1,27 @@
+{
+  "currentUser": {
+    "id": "default",
+    "files": [
+      {
+        "id": "6c4a9553",
+        "name": "6c4a9553.jpg",
+        "originalName": "4e3ee769317c6876.jpg",
+        "size": 613041,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/6c4a9553",
+        "url": "https://adofiles.i11.eu/dl/6c4a9553.jpg",
+        "previewUrl": "https://adofiles.i11.eu/dl/6c4a9553.jpg",
+        "uploadDate": 1774812205631,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      }
+    ]
+  },
+  "systemStats": {
+    "total_lifetime_uploads": 1,
+    "total_storage_bytes": 613041
+  }
+}
