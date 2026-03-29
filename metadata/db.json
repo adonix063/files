@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "2f0960b60",
+        "name": "xd",
+        "originalName": "download",
+        "size": 9033,
+        "type": "application/octet-stream",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/2f0960b60",
+        "url": "https://adofiles.i11.eu/dl/xd",
+        "uploadDate": 1774813983779,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "ccfd7ad53",
         "name": "ccfd7ad5.html",
         "originalName": "ai_studio_code.html",
@@ -36,7 +51,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 4,
-    "total_storage_bytes": 636412
+    "total_lifetime_uploads": 5,
+    "total_storage_bytes": 645445
   }
 }
