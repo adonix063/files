@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "ccfd7ad53",
+        "name": "ccfd7ad5.html",
+        "originalName": "ai_studio_code.html",
+        "size": 23371,
+        "type": "text/html",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/ccfd7ad53",
+        "url": "https://adofiles.i11.eu/dl/ccfd7ad5.html",
+        "uploadDate": 1774813810840,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "6c4a9553",
         "name": "6c4a9553.jpg",
         "originalName": "4e3ee769317c6876.jpg",
@@ -21,7 +36,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 3,
-    "total_storage_bytes": 613041
+    "total_lifetime_uploads": 4,
+    "total_storage_bytes": 636412
   }
 }
