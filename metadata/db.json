@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "a15d67743",
+        "name": "paja.gif",
+        "originalName": "yuki-suou-mata-mata.gif",
+        "size": 1431782,
+        "type": "image/gif",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/a15d67743",
+        "url": "https://adofiles.i11.eu/dl/paja.gif",
+        "previewUrl": "https://adofiles.i11.eu/dl/paja.gif",
+        "uploadDate": 1774831739823,
+        "expiration": "10m",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "aa7032283",
         "name": "aa703228.gif",
         "originalName": "yuki-suou-mata-mata.gif",
@@ -37,7 +53,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 8,
-    "total_storage_bytes": 1564909
+    "total_lifetime_uploads": 9,
+    "total_storage_bytes": 2996691
   }
 }
