@@ -3,22 +3,6 @@
     "id": "default",
     "files": [
       {
-        "id": "d01319962",
-        "name": "d0131996.jpg",
-        "originalName": "upscale_1774882971620.jpg",
-        "size": 346107,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-3",
-        "githubPath": "uploads/d01319962",
-        "url": "http://adofiles.i11.eu/dl/d0131996.jpg",
-        "previewUrl": "http://adofiles.i11.eu/dl/d0131996.jpg",
-        "uploadDate": 1774882976106,
-        "expiration": "1m",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 1
-      },
-      {
         "id": "76ce0f5d3",
         "name": "76ce0f5d.jpg",
         "originalName": "9792c0c00cfe9d38be080c74eeb14c46.jpg",
@@ -70,6 +54,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 12,
-    "total_storage_bytes": 645266
+    "total_storage_bytes": 299159
   }
 }
