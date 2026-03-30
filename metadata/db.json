@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "aa7032283",
+        "name": "aa703228.gif",
+        "originalName": "yuki-suou-mata-mata.gif",
+        "size": 1431782,
+        "type": "image/gif",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/aa7032283",
+        "url": "https://adofiles.i11.eu/dl/aa703228.gif",
+        "previewUrl": "https://adofiles.i11.eu/dl/aa703228.gif",
+        "uploadDate": 1774831719862,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "18ec7a3e3",
         "name": "18ec7a3e.jpg",
         "originalName": "file.jpg",
@@ -21,7 +37,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 7,
-    "total_storage_bytes": 133127
+    "total_lifetime_uploads": 8,
+    "total_storage_bytes": 1564909
   }
 }
