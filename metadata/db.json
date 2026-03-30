@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "e0c7a3772",
+        "name": "pene.gif",
+        "originalName": "slmileturtle.gif",
+        "size": 118750,
+        "type": "image/gif",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/e0c7a3772",
+        "url": "https://adofiles.i11.eu/dl/pene.gif",
+        "previewUrl": "https://adofiles.i11.eu/dl/pene.gif",
+        "uploadDate": 1774881008689,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "18ec7a3e3",
         "name": "18ec7a3e.jpg",
         "originalName": "file.jpg",
@@ -21,7 +37,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 9,
-    "total_storage_bytes": 133127
+    "total_lifetime_uploads": 10,
+    "total_storage_bytes": 251877
   }
 }
