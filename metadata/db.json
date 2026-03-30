@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "cbd589033",
+        "name": "cbd58903.jpg",
+        "originalName": "file.jpg",
+        "size": 101555,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/cbd589033",
+        "url": "http://adofiles.i11.eu/dl/cbd58903.jpg",
+        "previewUrl": "http://adofiles.i11.eu/dl/cbd58903.jpg",
+        "uploadDate": 1774901368457,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "e44a23930",
         "name": "e44a2393.jpg",
         "originalName": "file.jpg",
@@ -69,7 +85,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 13,
-    "total_storage_bytes": 1732057
+    "total_lifetime_uploads": 14,
+    "total_storage_bytes": 1833612
   }
 }
