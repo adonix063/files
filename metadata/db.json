@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "452db9573",
+        "name": "452db957.webp",
+        "originalName": "sticker.webp",
+        "size": 13606,
+        "type": "image/webp",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/452db9573",
+        "url": "http://adofiles.i11.eu/dl/452db957.webp",
+        "previewUrl": "http://adofiles.i11.eu/dl/452db957.webp",
+        "uploadDate": 1774977082916,
+        "expiration": "24h",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "18d4a6753",
         "name": "18d4a675.jpg",
         "originalName": "file.jpg",
@@ -101,7 +117,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 15,
-    "total_storage_bytes": 1928666
+    "total_lifetime_uploads": 16,
+    "total_storage_bytes": 1942272
   }
 }
