@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "bc92262f0",
+        "name": "bc92262f.jpg",
+        "originalName": "archivo.jpg",
+        "size": 54491,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/bc92262f0",
+        "url": "http://adofiles.i11.eu/dl/bc92262f.jpg",
+        "previewUrl": "http://adofiles.i11.eu/dl/bc92262f.jpg",
+        "uploadDate": 1774978933488,
+        "expiration": "24h",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "452db9573",
         "name": "452db957.webp",
         "originalName": "sticker.webp",
@@ -117,7 +133,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 16,
-    "total_storage_bytes": 1942272
+    "total_lifetime_uploads": 17,
+    "total_storage_bytes": 1996763
   }
 }
