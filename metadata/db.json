@@ -209,27 +209,11 @@
         "method": "chunked",
         "isChunked": true,
         "totalChunks": 1
-      },
-      {
-        "id": "18ec7a3e3",
-        "name": "18ec7a3e.jpg",
-        "originalName": "file.jpg",
-        "size": 133127,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-4",
-        "githubPath": "uploads/18ec7a3e3",
-        "url": "http://adofiles.i11.eu/dl/18ec7a3e.jpg",
-        "previewUrl": "http://adofiles.i11.eu/dl/18ec7a3e.jpg",
-        "uploadDate": 1774826942160,
-        "expiration": "never",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 1
       }
     ]
   },
   "systemStats": {
     "total_lifetime_uploads": 23,
-    "total_storage_bytes": 2334679
+    "total_storage_bytes": 2201552
   }
 }
