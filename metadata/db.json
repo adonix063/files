@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "7faca0c53",
+        "name": "7faca0c5.jpg",
+        "originalName": "file.jpg",
+        "size": 68442,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/7faca0c53",
+        "url": "http://adofiles.i11.eu/dl/7faca0c5.jpg",
+        "previewUrl": "http://adofiles.i11.eu/dl/7faca0c5.jpg",
+        "uploadDate": 1775156470749,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "4e2100183",
         "name": "4e210018.jpg",
         "originalName": "archivo.jpg",
@@ -149,7 +165,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 23,
-    "total_storage_bytes": 2021005
+    "total_lifetime_uploads": 24,
+    "total_storage_bytes": 2089447
   }
 }
