@@ -67,70 +67,6 @@
         "totalChunks": 1
       },
       {
-        "id": "c746de482",
-        "name": "c746de48.jpg",
-        "originalName": "archivo.jpg",
-        "size": 39840,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-3",
-        "githubPath": "uploads/c746de482",
-        "url": "http://adofiles.i11.eu/dl/c746de48.jpg",
-        "previewUrl": "http://adofiles.i11.eu/dl/c746de48.jpg",
-        "uploadDate": 1774978950198,
-        "expiration": "24h",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 1
-      },
-      {
-        "id": "2dabf30a1",
-        "name": "2dabf30a.jpg",
-        "originalName": "archivo.jpg",
-        "size": 72610,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-2",
-        "githubPath": "uploads/2dabf30a1",
-        "url": "http://adofiles.i11.eu/dl/2dabf30a.jpg",
-        "previewUrl": "http://adofiles.i11.eu/dl/2dabf30a.jpg",
-        "uploadDate": 1774978941705,
-        "expiration": "24h",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 1
-      },
-      {
-        "id": "bc92262f0",
-        "name": "bc92262f.jpg",
-        "originalName": "archivo.jpg",
-        "size": 54491,
-        "type": "image/jpeg",
-        "repo": "adonix063/files",
-        "githubPath": "uploads/bc92262f0",
-        "url": "http://adofiles.i11.eu/dl/bc92262f.jpg",
-        "previewUrl": "http://adofiles.i11.eu/dl/bc92262f.jpg",
-        "uploadDate": 1774978933488,
-        "expiration": "24h",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 1
-      },
-      {
-        "id": "452db9573",
-        "name": "452db957.webp",
-        "originalName": "sticker.webp",
-        "size": 13606,
-        "type": "image/webp",
-        "repo": "adonix063/files-4",
-        "githubPath": "uploads/452db9573",
-        "url": "http://adofiles.i11.eu/dl/452db957.webp",
-        "previewUrl": "http://adofiles.i11.eu/dl/452db957.webp",
-        "uploadDate": 1774977082916,
-        "expiration": "24h",
-        "method": "chunked",
-        "isChunked": true,
-        "totalChunks": 1
-      },
-      {
         "id": "18d4a6753",
         "name": "18d4a675.jpg",
         "originalName": "file.jpg",
@@ -214,6 +150,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 23,
-    "total_storage_bytes": 2201552
+    "total_storage_bytes": 2021005
   }
 }
