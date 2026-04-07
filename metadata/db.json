@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "be284fc10",
+        "name": "be284fc1.jpeg",
+        "originalName": "kFAoTYaK.jpeg",
+        "size": 25039,
+        "type": "application/octet-stream",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/be284fc10",
+        "url": "http://adofiles.i11.eu/dl/be284fc1.jpeg",
+        "uploadDate": 1775523097352,
+        "expiration": "never",
+        "method": "chunked",
+        "isChunked": true,
+        "totalChunks": 1
+      },
+      {
         "id": "7faca0c53",
         "name": "7faca0c5.jpg",
         "originalName": "file.jpg",
@@ -165,7 +180,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 24,
-    "total_storage_bytes": 2089447
+    "total_lifetime_uploads": 25,
+    "total_storage_bytes": 2114486
   }
 }
