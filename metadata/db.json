@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "cbb60ce4",
+        "name": "cbb60ce4.png",
+        "originalName": "Captura de pantalla 2026-05-05 170659.png",
+        "size": 27708,
+        "type": "image/png",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/cbb60ce41",
+        "url": "https://adofiles.vercel.app/dl/cbb60ce4.png",
+        "previewUrl": "https://adofiles.vercel.app/dl/cbb60ce4.png",
+        "uploadDate": 1778450754855,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "9b721bfe",
         "name": "9b721bfe.png",
         "originalName": "Captura de pantalla 2026-05-05 170659.png",
@@ -21,7 +37,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 28,
-    "total_storage_bytes": 27708
+    "total_lifetime_uploads": 29,
+    "total_storage_bytes": 55416
   }
 }
