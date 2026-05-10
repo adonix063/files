@@ -1,27 +1,10 @@
 {
   "currentUser": {
     "id": "default",
-    "files": [
-      {
-        "id": "6641f3dc",
-        "name": "6641f3dc.jpg",
-        "originalName": "IMG-20260510-WA0199.jpg",
-        "size": 121752,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-3",
-        "githubPath": "uploads/6641f3dc2",
-        "url": "http://ftycux-d-deploy-cslnracbmk.cn-hongkong-vpc.fcapp.run/dl/6641f3dc.jpg",
-        "previewUrl": "http://ftycux-d-deploy-cslnracbmk.cn-hongkong-vpc.fcapp.run/dl/6641f3dc.jpg",
-        "uploadDate": 1778448767224,
-        "expiration": "1m",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      }
-    ]
+    "files": []
   },
   "systemStats": {
     "total_lifetime_uploads": 27,
-    "total_storage_bytes": 121752
+    "total_storage_bytes": 0
   }
 }
