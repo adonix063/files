@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "6c1380fb",
+        "name": "6c1380fb.txt",
+        "originalName": "test2.txt",
+        "size": 24,
+        "type": "text/plain",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/6c1380fb1",
+        "url": "https://adofiles.vercel.app/dl/6c1380fb.txt",
+        "uploadDate": 1778456609379,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "9ff1f955",
         "name": "9ff1f955.txt",
         "originalName": "test.txt",
@@ -132,7 +147,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 37,
-    "total_storage_bytes": 3603664
+    "total_lifetime_uploads": 38,
+    "total_storage_bytes": 3603688
   }
 }
