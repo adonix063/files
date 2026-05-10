@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "95eadc6d",
+        "name": "95eadc6d.jpg",
+        "originalName": "IMG-20260510-WA0200.jpg",
+        "size": 101706,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/95eadc6d1",
+        "url": "https://cdn.adoolab.xyz/dl/95eadc6d.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/95eadc6d.jpg",
+        "uploadDate": 1778451335885,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "e351ab61",
         "name": "mz-bro.jpg:e351ab61.jpg",
         "originalName": "IMG-20260510-WA0013.jpg",
@@ -53,7 +69,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 30,
-    "total_storage_bytes": 109790
+    "total_lifetime_uploads": 31,
+    "total_storage_bytes": 211496
   }
 }
