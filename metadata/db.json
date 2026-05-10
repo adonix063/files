@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "9ff1f955",
+        "name": "9ff1f955.txt",
+        "originalName": "test.txt",
+        "size": 15,
+        "type": "text/plain",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/9ff1f9550",
+        "url": "https://adofiles.vercel.app/dl/9ff1f955.txt",
+        "uploadDate": 1778456503272,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "0c284425",
         "name": "0c284425.mp3",
         "originalName": "KING NASIR DANCE  BUENA VIDA MALA FAMA (SLOWED & REVERB).mp3",
@@ -117,7 +132,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 36,
-    "total_storage_bytes": 3603649
+    "total_lifetime_uploads": 37,
+    "total_storage_bytes": 3603664
   }
 }
