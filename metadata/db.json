@@ -1,10 +1,27 @@
 {
   "currentUser": {
     "id": "default",
-    "files": []
+    "files": [
+      {
+        "id": "9b721bfe",
+        "name": "9b721bfe.png",
+        "originalName": "Captura de pantalla 2026-05-05 170659.png",
+        "size": 27708,
+        "type": "image/png",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/9b721bfe3",
+        "url": "https://adofiles.vercel.app/dl/9b721bfe.png",
+        "previewUrl": "https://adofiles.vercel.app/dl/9b721bfe.png",
+        "uploadDate": 1778449946909,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      }
+    ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 27,
-    "total_storage_bytes": 0
+    "total_lifetime_uploads": 28,
+    "total_storage_bytes": 27708
   }
 }
