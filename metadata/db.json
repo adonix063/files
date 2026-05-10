@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "d898b818",
+        "name": "d898b818.txt",
+        "originalName": "hola.txt",
+        "size": 11,
+        "type": "text/plain",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/d898b8183",
+        "url": "https://cdn.adoolab.xyz/dl/d898b818.txt",
+        "uploadDate": 1778457038795,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "6c1380fb",
         "name": "6c1380fb.txt",
         "originalName": "test2.txt",
@@ -147,7 +162,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 38,
-    "total_storage_bytes": 3603688
+    "total_lifetime_uploads": 39,
+    "total_storage_bytes": 3603699
   }
 }
