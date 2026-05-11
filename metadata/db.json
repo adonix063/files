@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "cf32a025",
+        "name": "cf32a025.mp4",
+        "originalName": "rg_1778465775124_5.mp4",
+        "size": 193784,
+        "type": "video/mp4",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/cf32a0251",
+        "url": "https://cdn.adoolab.xyz/dl/cf32a025.mp4",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/cf32a025.mp4",
+        "uploadDate": 1778465777170,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "15ac2319",
         "name": "15ac2319.mp4",
         "originalName": "rg_1778465771859_4.mp4",
@@ -2194,7 +2210,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 166,
-    "total_storage_bytes": 28772691
+    "total_lifetime_uploads": 167,
+    "total_storage_bytes": 28966475
   }
 }
