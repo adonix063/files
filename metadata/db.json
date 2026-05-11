@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "4343d056",
+        "name": "Bot.jpeg:4343d056.jpeg",
+        "originalName": "Morrita de buenas ubres (8).jpeg",
+        "size": 142102,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/4343d0562",
+        "url": "https://cdn.adoolab.xyz/dl/Bot.jpeg%3A4343d056.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/Bot.jpeg%3A4343d056.jpeg",
+        "uploadDate": 1778509801373,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "0a3eac8a",
         "name": "0a3eac8a.jpeg",
         "originalName": "Morrita de buenas ubres (8).jpeg",
@@ -2914,7 +2930,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 211,
-    "total_storage_bytes": 38783499
+    "total_lifetime_uploads": 212,
+    "total_storage_bytes": 38925601
   }
 }
