@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "a97635cd",
+        "name": "a97635cd.mp4",
+        "originalName": "ssstik.io_@giyu.fx_1771278629359.mp4",
+        "size": 3965385,
+        "type": "video/mp4",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/a97635cd1",
+        "url": "https://cdn.adoolab.xyz/dl/a97635cd.mp4",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/a97635cd.mp4",
+        "uploadDate": 1778696164856,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": true,
+        "totalChunks": 2
+      },
+      {
         "id": "4751fdef",
         "name": "4751fdef.mp4",
         "originalName": "1778695247186_video.mp4",
@@ -3025,7 +3041,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 218,
-    "total_storage_bytes": 42900630
+    "total_lifetime_uploads": 219,
+    "total_storage_bytes": 46866015
   }
 }
