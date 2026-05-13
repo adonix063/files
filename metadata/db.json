@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "a78dd0b0",
+        "name": "a78dd0b0.zip",
+        "originalName": "Mini_WaBot.zip",
+        "size": 115825,
+        "type": "application/x-zip-compressed",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/a78dd0b00",
+        "url": "https://adofiles.vercel.app/dl/a78dd0b0.zip",
+        "uploadDate": 1778631287291,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "d2759739",
         "name": "d2759739.jpg",
         "originalName": "IMG-20260511-WA0251.jpg",
@@ -2946,7 +2961,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 213,
-    "total_storage_bytes": 39000001
+    "total_lifetime_uploads": 214,
+    "total_storage_bytes": 39115826
   }
 }
