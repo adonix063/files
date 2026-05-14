@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "38bba4ea",
+        "name": "38bba4ea.mp4",
+        "originalName": "d92c0842-6d86-4520-aa1a-87940087669c.mp4",
+        "size": 3949938,
+        "type": "video/mp4",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/38bba4ea0",
+        "url": "https://cdn.adoolab.xyz/dl/38bba4ea.mp4",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/38bba4ea.mp4",
+        "uploadDate": 1778776954803,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": true,
+        "totalChunks": 2
+      },
+      {
         "id": "fa03121b",
         "name": "fa03121b.jpg",
         "originalName": "Menu1.jpg",
@@ -3105,7 +3121,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 227,
-    "total_storage_bytes": 47102216
+    "total_lifetime_uploads": 228,
+    "total_storage_bytes": 51052154
   }
 }
