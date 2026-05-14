@@ -3,70 +3,6 @@
     "id": "default",
     "files": [
       {
-        "id": "17d84462",
-        "name": "17d84462.jpg",
-        "originalName": "original_1778768267625.jpg",
-        "size": 16939,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-4",
-        "githubPath": "uploads/17d844623",
-        "url": "https://cdn.adoolab.xyz/dl/17d84462.jpg",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/17d84462.jpg",
-        "uploadDate": 1778768269516,
-        "expiration": "1h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
-        "id": "4c4f4a15",
-        "name": "4c4f4a15.jpg",
-        "originalName": "original_1778766509751.jpg",
-        "size": 130906,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-4",
-        "githubPath": "uploads/4c4f4a153",
-        "url": "https://cdn.adoolab.xyz/dl/4c4f4a15.jpg",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/4c4f4a15.jpg",
-        "uploadDate": 1778766511653,
-        "expiration": "1h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
-        "id": "ac55567e",
-        "name": "ac55567e.jpg",
-        "originalName": "original_1778737587502.jpg",
-        "size": 244361,
-        "type": "image/jpeg",
-        "repo": "adonix063/files",
-        "githubPath": "uploads/ac55567e0",
-        "url": "https://cdn.adoolab.xyz/dl/ac55567e.jpg",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/ac55567e.jpg",
-        "uploadDate": 1778737589220,
-        "expiration": "1h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
-        "id": "96fa106a",
-        "name": "96fa106a.jpg",
-        "originalName": "original_1778729763902.jpg",
-        "size": 28452,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-4",
-        "githubPath": "uploads/96fa106a3",
-        "url": "https://cdn.adoolab.xyz/dl/96fa106a.jpg",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/96fa106a.jpg",
-        "uploadDate": 1778729764805,
-        "expiration": "1h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
         "id": "d030582c",
         "name": "d030582c.jpg",
         "originalName": "f80bf808a6466d775aa6b2ce8c02ba3e.jpg",
@@ -3154,6 +3090,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 226,
-    "total_storage_bytes": 47468797
+    "total_storage_bytes": 47048139
   }
 }
