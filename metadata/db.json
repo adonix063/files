@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "6971dcad",
+        "name": "6971dcad.jpg",
+        "originalName": "original_1778824176898.jpg",
+        "size": 8302,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/6971dcad1",
+        "url": "https://cdn.adoolab.xyz/dl/6971dcad.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/6971dcad.jpg",
+        "uploadDate": 1778824177800,
+        "expiration": "1h",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "a0ad1ffe",
         "name": "a0ad1ffe.jpg",
         "originalName": "original_1778823996349.jpg",
@@ -3169,7 +3185,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 232,
-    "total_storage_bytes": 51140125
+    "total_lifetime_uploads": 233,
+    "total_storage_bytes": 51148427
   }
 }
