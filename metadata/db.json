@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "9cd57261",
+        "name": "9cd57261.jpg",
+        "originalName": "original_1778808816343.jpg",
+        "size": 26287,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/9cd572613",
+        "url": "https://cdn.adoolab.xyz/dl/9cd57261.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/9cd57261.jpg",
+        "uploadDate": 1778808817506,
+        "expiration": "1h",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "d5156e1d",
         "name": "d5156e1d.jpg",
         "originalName": "Menu2.jpg",
@@ -3137,7 +3153,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 229,
-    "total_storage_bytes": 51123521
+    "total_lifetime_uploads": 230,
+    "total_storage_bytes": 51149808
   }
 }
