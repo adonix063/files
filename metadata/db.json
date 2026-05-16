@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "9f70f085",
+        "name": "9f70f085.jpg",
+        "originalName": "2f88d7788c303aa501ea2b686a0440e6.jpg",
+        "size": 50603,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/9f70f0850",
+        "url": "https://adofiles.vercel.app/dl/9f70f085.jpg",
+        "previewUrl": "https://adofiles.vercel.app/dl/9f70f085.jpg",
+        "uploadDate": 1778900035587,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "5fae480e",
         "name": "5fae480e.m4a",
         "originalName": "Funk de Mambo(M4A_128K).m4a",
@@ -3633,7 +3649,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 269,
-    "total_storage_bytes": 56355804
+    "total_lifetime_uploads": 270,
+    "total_storage_bytes": 56406407
   }
 }
