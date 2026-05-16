@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "ad457b4f",
+        "name": "ad457b4f.js",
+        "originalName": "index (3).js",
+        "size": 15754,
+        "type": "text/javascript",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/ad457b4f1",
+        "url": "https://cdn.adoolab.xyz/dl/ad457b4f.js",
+        "uploadDate": 1778942612949,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "e0e5c318",
         "name": "e0e5c318.jpeg",
         "originalName": "upload_1778942517764.jpeg",
@@ -3665,7 +3680,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 271,
-    "total_storage_bytes": 56494403
+    "total_lifetime_uploads": 272,
+    "total_storage_bytes": 56510157
   }
 }
