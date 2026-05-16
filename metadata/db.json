@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "d42c8fc1",
+        "name": "d42c8fc1.jpeg",
+        "originalName": "upload_1778942741039.jpeg",
+        "size": 38251,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/d42c8fc11",
+        "url": "https://cdn.adoolab.xyz/dl/d42c8fc1.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/d42c8fc1.jpeg",
+        "uploadDate": 1778942741812,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "8638b5e8",
         "name": "8638b5e8.pdf",
         "originalName": "invoice-3715.pdf",
@@ -3695,7 +3711,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 273,
-    "total_storage_bytes": 57568996
+    "total_lifetime_uploads": 274,
+    "total_storage_bytes": 57607247
   }
 }
