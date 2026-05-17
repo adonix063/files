@@ -3,22 +3,6 @@
     "id": "default",
     "files": [
       {
-        "id": "3f85abac",
-        "name": "3f85abac.jpg",
-        "originalName": "IMG-20260517-WA0063.jpg",
-        "size": 812018,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-3",
-        "githubPath": "uploads/3f85abac2",
-        "url": "https://cdn.adoolab.xyz/dl/3f85abac.jpg",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/3f85abac.jpg",
-        "uploadDate": 1779044222460,
-        "expiration": "10m",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
         "id": "0212c591",
         "name": "buzz-patrick.jpg:0212c591.jpg",
         "originalName": "e6c0eb4355cd5d397f722201aed8b71e.jpg",
@@ -3936,6 +3920,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 288,
-    "total_storage_bytes": 69651964
+    "total_storage_bytes": 68839946
   }
 }
