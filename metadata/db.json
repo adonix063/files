@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "c8a31e0f",
+        "name": "c8a31e0f.jpg",
+        "originalName": "G9i8jTSWgAAppEQ.jpg",
+        "size": 161515,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/c8a31e0f2",
+        "url": "https://cdn.adoolab.xyz/dl/c8a31e0f.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/c8a31e0f.jpg",
+        "uploadDate": 1779033278044,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "f0924ab5",
         "name": "f0924ab5.mp4",
         "originalName": "ssstik.io_@mythicalage_1763688033637.mp4",
@@ -3871,7 +3887,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 284,
-    "total_storage_bytes": 67121687
+    "total_lifetime_uploads": 285,
+    "total_storage_bytes": 67283202
   }
 }
