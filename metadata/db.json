@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "cfd0caf0",
+        "name": "cfd0caf0.jpg",
+        "originalName": "xv_22_t.jpg",
+        "size": 19364,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/cfd0caf01",
+        "url": "https://cdn.adoolab.xyz/dl/cfd0caf0.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/cfd0caf0.jpg",
+        "uploadDate": 1779470448114,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "228206d0",
         "name": "228206d0.pdf",
         "originalName": "Pinturas representativas organizadas por periodos del arte.pdf",
@@ -4156,7 +4172,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 303,
-    "total_storage_bytes": 71057936
+    "total_lifetime_uploads": 304,
+    "total_storage_bytes": 71077300
   }
 }
