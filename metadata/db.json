@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "228206d0",
+        "name": "228206d0.pdf",
+        "originalName": "Pinturas representativas organizadas por periodos del arte.pdf",
+        "size": 575336,
+        "type": "application/pdf",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/228206d01",
+        "url": "https://cdn.adoolab.xyz/dl/228206d0.pdf",
+        "uploadDate": 1779409971200,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "c6dfb38f",
         "name": "c6dfb38f.jpeg",
         "originalName": "upload_1779407348373.jpeg",
@@ -4141,7 +4156,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 302,
-    "total_storage_bytes": 70482600
+    "total_lifetime_uploads": 303,
+    "total_storage_bytes": 71057936
   }
 }
