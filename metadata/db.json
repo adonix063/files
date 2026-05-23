@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "d9274206",
+        "name": "d9274206.jpeg",
+        "originalName": "WhatsApp Image 2026-05-23 at 6.48.04 PM.jpeg",
+        "size": 71377,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/d92742062",
+        "url": "https://cdn.adoolab.xyz/dl/d9274206.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/d9274206.jpeg",
+        "uploadDate": 1779580149461,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "52fb34a9",
         "name": "52fb34a9.mp4",
         "originalName": "1779528863361_video.mp4",
@@ -4188,7 +4204,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 307,
-    "total_storage_bytes": 72079983
+    "total_lifetime_uploads": 308,
+    "total_storage_bytes": 72151360
   }
 }
