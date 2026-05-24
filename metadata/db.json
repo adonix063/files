@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "e43370f4",
+        "name": "e43370f4.txt",
+        "originalName": "adofiles-test.txt",
+        "size": 13,
+        "type": "text/plain",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/e43370f41",
+        "url": "https://cdn.adoolab.xyz/dl/e43370f4.txt",
+        "uploadDate": 1779654013437,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "1bc68d2e",
         "name": "1bc68d2e.mp4",
         "originalName": "1779651610423.mp4",
@@ -4299,7 +4314,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 317,
-    "total_storage_bytes": 73247540
+    "total_lifetime_uploads": 318,
+    "total_storage_bytes": 73247553
   }
 }
