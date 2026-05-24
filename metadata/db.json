@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "6db61ff4",
+        "name": "6db61ff4.exe",
+        "originalName": "Install Termius.exe",
+        "size": 255849576,
+        "type": "application/x-msdownload",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/6db61ff42",
+        "url": "https://cdn.adoolab.xyz/dl/6db61ff4.exe",
+        "uploadDate": 1779654648612,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": true,
+        "totalChunks": 82
+      },
+      {
         "id": "e43370f4",
         "name": "e43370f4.txt",
         "originalName": "adofiles-test.txt",
@@ -4314,7 +4329,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 318,
-    "total_storage_bytes": 73247553
+    "total_lifetime_uploads": 319,
+    "total_storage_bytes": 329097129
   }
 }
