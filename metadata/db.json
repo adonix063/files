@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "9c2445c4",
+        "name": "9c2445c4.txt",
+        "originalName": "file.txt",
+        "size": 23,
+        "type": "text/plain",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/9c2445c40.txt",
+        "url": "https://cdn.adoolab.xyz/dl/9c2445c4.txt",
+        "uploadDate": 1779704589410,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "4440dc5b",
         "name": "4440dc5b.txt",
         "originalName": "file.txt",
@@ -4438,7 +4453,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 328,
-    "total_storage_bytes": 332500336
+    "total_lifetime_uploads": 329,
+    "total_storage_bytes": 332500359
   }
 }
