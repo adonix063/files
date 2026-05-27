@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "985b1ed9",
+        "name": "985b1ed9.jpg",
+        "originalName": "apoyo.jpg",
+        "size": 1305983,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/985b1ed93.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/985b1ed9.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/985b1ed9.jpg",
+        "uploadDate": 1779918024721,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "f808f237",
         "name": "f808f237.jpeg",
         "originalName": "file.jpeg",
@@ -4549,7 +4565,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 337,
-    "total_storage_bytes": 336717690
+    "total_lifetime_uploads": 338,
+    "total_storage_bytes": 338023673
   }
 }
