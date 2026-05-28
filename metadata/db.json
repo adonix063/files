@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "306425e9",
+        "name": "306425e9.jpeg",
+        "originalName": "WhatsApp Image 2026-05-27 at 9.02.42 PM.jpeg",
+        "size": 28465,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/306425e91.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/306425e9.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/306425e9.jpeg",
+        "uploadDate": 1779937609090,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "3d42f230",
         "name": "3d42f230.jpg",
         "originalName": "1779931939872.jpg",
@@ -4629,7 +4645,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 342,
-    "total_storage_bytes": 352062926
+    "total_lifetime_uploads": 343,
+    "total_storage_bytes": 352091391
   }
 }
