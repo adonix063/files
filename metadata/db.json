@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "3d42f230",
+        "name": "3d42f230.jpg",
+        "originalName": "1779931939872.jpg",
+        "size": 178361,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/3d42f2301.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/3d42f230.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/3d42f230.jpg",
+        "uploadDate": 1779931942650,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "143ef9d5",
         "name": "143ef9d5.mp4",
         "originalName": "TikVid.io_7581755557099408661-hd.mp4",
@@ -4613,7 +4629,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 341,
-    "total_storage_bytes": 351884565
+    "total_lifetime_uploads": 342,
+    "total_storage_bytes": 352062926
   }
 }
