@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "cb24fef2",
+        "name": "Mitzuki.html:cb24fef2.html",
+        "originalName": "HZXRo5fAIhy9Ddj2gJD24V",
+        "size": 171942,
+        "type": "text/html",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/cb24fef20.html",
+        "url": "https://cdn.adoolab.xyz/dl/Mitzuki.html%3Acb24fef2.html",
+        "uploadDate": 1780151065661,
+        "expiration": "never",
+        "method": "url",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "c699054e",
         "name": "c699054e.jpg",
         "originalName": "1780123362273_imagen.jpg",
@@ -4709,7 +4724,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 347,
-    "total_storage_bytes": 353874885
+    "total_lifetime_uploads": 348,
+    "total_storage_bytes": 354046827
   }
 }
