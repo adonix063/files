@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "a074bdcf",
+        "name": "a074bdcf.bin",
+        "originalName": "1780168756431.bin",
+        "size": 28998,
+        "type": "application/octet-stream",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/a074bdcf0.bin",
+        "url": "https://cdn.adoolab.xyz/dl/a074bdcf.bin",
+        "uploadDate": 1780168758034,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "ace56ca9",
         "name": "fabizljs.jpg:ace56ca9.jpg",
         "originalName": "IMG-20260530-WA1006.jpg",
@@ -4756,7 +4771,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 350,
-    "total_storage_bytes": 354169947
+    "total_lifetime_uploads": 351,
+    "total_storage_bytes": 354198945
   }
 }
