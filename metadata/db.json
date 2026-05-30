@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "eb9c4b71",
+        "name": "fabizljs.jpg:eb9c4b71.jpg",
+        "originalName": "IMG-20260530-WA0203.jpg",
+        "size": 100879,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/eb9c4b710.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/fabizljs.jpg%3Aeb9c4b71.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/fabizljs.jpg%3Aeb9c4b71.jpg",
+        "uploadDate": 1780167328133,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "cb24fef2",
         "name": "Mitzuki.html:cb24fef2.html",
         "originalName": "HZXRo5fAIhy9Ddj2gJD24V",
@@ -4724,7 +4740,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 348,
-    "total_storage_bytes": 354046827
+    "total_lifetime_uploads": 349,
+    "total_storage_bytes": 354147706
   }
 }
