@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "f3e01c0c",
+        "name": "f3e01c0c.mp4",
+        "originalName": "GIF-20260530-WA0028.mp4",
+        "size": 750119,
+        "type": "video/mp4",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/f3e01c0c0.mp4",
+        "url": "https://cdn.adoolab.xyz/dl/f3e01c0c.mp4",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/f3e01c0c.mp4",
+        "uploadDate": 1780196388097,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "c96b98c5",
         "name": "c96b98c5.jpg",
         "originalName": "IMG-20260524-WA0411.jpg",
@@ -4930,7 +4946,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 362,
-    "total_storage_bytes": 354887251
+    "total_lifetime_uploads": 363,
+    "total_storage_bytes": 355637370
   }
 }
