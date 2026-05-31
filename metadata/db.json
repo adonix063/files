@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "372a978d",
+        "name": "372a978d.jpg",
+        "originalName": "upscaled_1780186270357.jpg",
+        "size": 15531,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/372a978d2.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/372a978d.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/372a978d.jpg",
+        "uploadDate": 1780186272523,
+        "expiration": "24h",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "ef0d7efa",
         "name": "ef0d7efa.webp",
         "originalName": "the-eminence-in-shadow-temporada-3.webp",
@@ -4867,7 +4883,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 358,
-    "total_storage_bytes": 354588829
+    "total_lifetime_uploads": 359,
+    "total_storage_bytes": 354604360
   }
 }
