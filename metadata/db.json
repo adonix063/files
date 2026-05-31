@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "74c7ec41",
+        "name": "74c7ec41.jpg",
+        "originalName": "file.jpg",
+        "size": 56157,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/74c7ec413.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/74c7ec41.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/74c7ec41.jpg",
+        "uploadDate": 1780245422526,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "8fd78d89",
         "name": "8fd78d89.jpg",
         "originalName": "file.jpg",
@@ -5010,7 +5026,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 367,
-    "total_storage_bytes": 357802492
+    "total_lifetime_uploads": 368,
+    "total_storage_bytes": 357858649
   }
 }
