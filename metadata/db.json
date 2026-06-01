@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "5ac25528",
+        "name": "5ac25528.jpg",
+        "originalName": "IMG-20260601-WA0676.jpg",
+        "size": 46934,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/5ac255282.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/5ac25528.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/5ac25528.jpg",
+        "uploadDate": 1780335408651,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "d25257b3",
         "name": "d25257b3.jpeg",
         "originalName": "upload.jpeg",
@@ -5346,7 +5362,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 389,
-    "total_storage_bytes": 362625751
+    "total_lifetime_uploads": 390,
+    "total_storage_bytes": 362672685
   }
 }
