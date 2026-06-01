@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "fd702c10",
+        "name": "fd702c10.jpeg",
+        "originalName": "icon.jpeg",
+        "size": 127950,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/fd702c103.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/fd702c10.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/fd702c10.jpeg",
+        "uploadDate": 1780276410949,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "63867510",
         "name": "63867510.jpeg",
         "originalName": "upload.jpeg",
@@ -5138,7 +5154,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 376,
-    "total_storage_bytes": 358606157
+    "total_lifetime_uploads": 377,
+    "total_storage_bytes": 358734107
   }
 }
