@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "ea90f4df",
+        "name": "ea90f4df.jpeg",
+        "originalName": "upload.jpeg",
+        "size": 416593,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/ea90f4df3.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/ea90f4df.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/ea90f4df.jpeg",
+        "uploadDate": 1780712435819,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "97e26096",
         "name": "97e26096.jpeg",
         "originalName": "upload.jpeg",
@@ -5985,7 +6001,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 429,
-    "total_storage_bytes": 378226955
+    "total_lifetime_uploads": 430,
+    "total_storage_bytes": 378643548
   }
 }
