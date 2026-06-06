@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "9d8d3732",
+        "name": "9d8d3732.gif",
+        "originalName": "dance.gif",
+        "size": 201973,
+        "type": "image/gif",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/9d8d37322.gif",
+        "url": "https://cdn.adoolab.xyz/dl/9d8d3732.gif",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/9d8d3732.gif",
+        "uploadDate": 1780745696753,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "8f0f5c25",
         "name": "8f0f5c25.jpeg",
         "originalName": "upload.jpeg",
@@ -6033,7 +6049,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 432,
-    "total_storage_bytes": 379476734
+    "total_lifetime_uploads": 433,
+    "total_storage_bytes": 379678707
   }
 }
