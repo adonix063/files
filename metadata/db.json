@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "2a00e600",
+        "name": "2a00e600.jpeg",
+        "originalName": "upload.jpeg",
+        "size": 191530,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/2a00e6000.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/2a00e600.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/2a00e600.jpeg",
+        "uploadDate": 1780807656444,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "ce9f190a",
         "name": "ce9f190a.apk",
         "originalName": "NODEXITERV1.apk",
@@ -6192,7 +6208,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 442,
-    "total_storage_bytes": 380047391
+    "total_lifetime_uploads": 443,
+    "total_storage_bytes": 380238921
   }
 }
