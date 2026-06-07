@@ -83,21 +83,6 @@
         "totalChunks": 1
       },
       {
-        "id": "ce9f190a",
-        "name": "ce9f190a.apk",
-        "originalName": "NODEXITERV1.apk",
-        "size": 839,
-        "type": "application/vnd.android.package-archive",
-        "repo": "adonix063/files-2",
-        "githubPath": "uploads/ce9f190a1.apk",
-        "url": "https://cdn.adoolab.xyz/dl/ce9f190a.apk",
-        "uploadDate": 1780799842712,
-        "expiration": "10m",
-        "method": "url",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
         "id": "b08e03a0",
         "name": "b08e03a0.jpeg",
         "originalName": "upload.jpeg",
@@ -6273,6 +6258,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 447,
-    "total_storage_bytes": 380756161
+    "total_storage_bytes": 380755322
   }
 }
