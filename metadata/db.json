@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "17c4a32f",
+        "name": "17c4a32f.txt",
+        "originalName": "bsd-brawl-logcat.txt",
+        "size": 3773224,
+        "type": "text/plain",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/17c4a32f0.txt",
+        "url": "https://cdn.adoolab.xyz/dl/17c4a32f.txt",
+        "uploadDate": 1780961777620,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "9967f037",
         "name": "9967f037.txt",
         "originalName": "bsd-brawl-logcat.txt",
@@ -6495,7 +6510,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 462,
-    "total_storage_bytes": 386491202
+    "total_lifetime_uploads": 463,
+    "total_storage_bytes": 390264426
   }
 }
