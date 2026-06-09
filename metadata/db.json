@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "4a63d1a7",
+        "name": "4a63d1a7.jpeg",
+        "originalName": "upload.jpeg",
+        "size": 62281,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/4a63d1a70.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/4a63d1a7.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/4a63d1a7.jpeg",
+        "uploadDate": 1780969180996,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "17c4a32f",
         "name": "17c4a32f.txt",
         "originalName": "bsd-brawl-logcat.txt",
@@ -6510,7 +6526,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 463,
-    "total_storage_bytes": 390264426
+    "total_lifetime_uploads": 464,
+    "total_storage_bytes": 390326707
   }
 }
