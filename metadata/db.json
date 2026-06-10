@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "77958980",
+        "name": "77958980.jpeg",
+        "originalName": "upload.jpeg",
+        "size": 64674,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/779589800.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/77958980.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/77958980.jpeg",
+        "uploadDate": 1781129225456,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "14252fc3",
         "name": "14252fc3.jpeg",
         "originalName": "icon.jpeg",
@@ -6718,7 +6734,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 476,
-    "total_storage_bytes": 398875456
+    "total_lifetime_uploads": 477,
+    "total_storage_bytes": 398940130
   }
 }
