@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "f5a2123e",
+        "name": "f5a2123e.jpg",
+        "originalName": "Banana.jpg",
+        "size": 25399,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/f5a2123e3.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/f5a2123e.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/f5a2123e.jpg",
+        "uploadDate": 1781134507630,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "cf1fb9d7",
         "name": "cf1fb9d7.jpeg",
         "originalName": "upload.jpeg",
@@ -6782,7 +6798,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 480,
-    "total_storage_bytes": 399167623
+    "total_lifetime_uploads": 481,
+    "total_storage_bytes": 399193022
   }
 }
