@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "de20913b",
+        "name": "de20913b.jpg",
+        "originalName": "IMG-20260610-WA0030.jpg",
+        "size": 59371,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/de20913b0.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/de20913b.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/de20913b.jpg",
+        "uploadDate": 1781106431594,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "1f555ac4",
         "name": "1f555ac4.jpeg",
         "originalName": "upload.jpeg",
@@ -6686,7 +6702,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 474,
-    "total_storage_bytes": 398725038
+    "total_lifetime_uploads": 475,
+    "total_storage_bytes": 398784409
   }
 }
