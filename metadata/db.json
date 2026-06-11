@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "3fe09e87",
+        "name": "3fe09e87.webp",
+        "originalName": "upscaled_1781186577498.webp",
+        "size": 234520,
+        "type": "image/webp",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/3fe09e871.webp",
+        "url": "https://cdn.adoolab.xyz/dl/3fe09e87.webp",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/3fe09e87.webp",
+        "uploadDate": 1781186580705,
+        "expiration": "24h",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "446f4529",
         "name": "446f4529.jpeg",
         "originalName": "Banner siiiiiiiiiii.jpeg",
@@ -6926,7 +6942,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 489,
-    "total_storage_bytes": 399722524
+    "total_lifetime_uploads": 490,
+    "total_storage_bytes": 399957044
   }
 }
