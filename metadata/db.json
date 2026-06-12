@@ -179,54 +179,6 @@
         "totalChunks": 1
       },
       {
-        "id": "7ef1a1c9",
-        "name": "7ef1a1c9.webp",
-        "originalName": "upscaled_1781192593037.webp",
-        "size": 72282,
-        "type": "image/webp",
-        "repo": "adonix063/files-3",
-        "githubPath": "uploads/7ef1a1c92.webp",
-        "url": "https://cdn.adoolab.xyz/dl/7ef1a1c9.webp",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/7ef1a1c9.webp",
-        "uploadDate": 1781192595812,
-        "expiration": "24h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
-        "id": "d5d512fa",
-        "name": "d5d512fa.webp",
-        "originalName": "upscaled_1781186640496.webp",
-        "size": 192918,
-        "type": "image/webp",
-        "repo": "adonix063/files-2",
-        "githubPath": "uploads/d5d512fa1.webp",
-        "url": "https://cdn.adoolab.xyz/dl/d5d512fa.webp",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/d5d512fa.webp",
-        "uploadDate": 1781186643302,
-        "expiration": "24h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
-        "id": "3fe09e87",
-        "name": "3fe09e87.webp",
-        "originalName": "upscaled_1781186577498.webp",
-        "size": 234520,
-        "type": "image/webp",
-        "repo": "adonix063/files-2",
-        "githubPath": "uploads/3fe09e871.webp",
-        "url": "https://cdn.adoolab.xyz/dl/3fe09e87.webp",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/3fe09e87.webp",
-        "uploadDate": 1781186580705,
-        "expiration": "24h",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
         "id": "446f4529",
         "name": "446f4529.jpeg",
         "originalName": "Banner siiiiiiiiiii.jpeg",
@@ -7135,6 +7087,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 503,
-    "total_storage_bytes": 407375232
+    "total_storage_bytes": 406875512
   }
 }
