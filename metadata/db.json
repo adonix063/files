@@ -4144,22 +4144,6 @@
         "totalChunks": 1
       },
       {
-        "id": "9e5ac9f2",
-        "name": "SubidadeArchivos-Ado.jpg:9e5ac9f2.jpg",
-        "originalName": "IMG-20260511-WA0001.jpg",
-        "size": 55018,
-        "type": "image/jpeg",
-        "repo": "adonix063/files-3",
-        "githubPath": "uploads/9e5ac9f22",
-        "url": "https://cdn.adoolab.xyz/dl/SubidadeArchivos-Ado.jpg%3A9e5ac9f2.jpg",
-        "previewUrl": "https://cdn.adoolab.xyz/dl/SubidadeArchivos-Ado.jpg%3A9e5ac9f2.jpg",
-        "uploadDate": 1778644463725,
-        "expiration": "30d",
-        "method": "base64",
-        "isChunked": false,
-        "totalChunks": 1
-      },
-      {
         "id": "a78dd0b0",
         "name": "a78dd0b0.zip",
         "originalName": "Mini_WaBot.zip",
@@ -7119,6 +7103,6 @@
   },
   "systemStats": {
     "total_lifetime_uploads": 501,
-    "total_storage_bytes": 406841654
+    "total_storage_bytes": 406786636
   }
 }
