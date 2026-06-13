@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "e03b7b11",
+        "name": "e03b7b11.png",
+        "originalName": "avatar_contact.png",
+        "size": 1378354,
+        "type": "image/png",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/e03b7b111.png",
+        "url": "https://cdn.adoolab.xyz/dl/e03b7b11.png",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/e03b7b11.png",
+        "uploadDate": 1781390226887,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "3be2a088",
         "name": "3be2a088.jpeg",
         "originalName": "banner.jpeg",
@@ -7710,7 +7726,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 542,
-    "total_storage_bytes": 409366398
+    "total_lifetime_uploads": 543,
+    "total_storage_bytes": 410744752
   }
 }
