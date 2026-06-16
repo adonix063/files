@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "a4e4cd05",
+        "name": "a4e4cd05.webp",
+        "originalName": "1781650528089_wbb7q1qag6b.webp",
+        "size": 38430,
+        "type": "image/webp",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/a4e4cd053.webp",
+        "url": "https://cdn.adoolab.xyz/dl/a4e4cd05.webp",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/a4e4cd05.webp",
+        "uploadDate": 1781650529169,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "000aa423",
         "name": "000aa423.mp4",
         "originalName": "4aac70e7be813c70c7c059bb5f95e9cf.mp4",
@@ -9550,7 +9566,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 657,
-    "total_storage_bytes": 478451861
+    "total_lifetime_uploads": 658,
+    "total_storage_bytes": 478490291
   }
 }
