@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "26172862",
+        "name": "26172862.jpg",
+        "originalName": "Prime.jpg",
+        "size": 244448,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/261728622.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/26172862.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/26172862.jpg",
+        "uploadDate": 1781788395289,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "97b77072",
         "name": "97b77072.jpg",
         "originalName": "fondo cali 💘_20260617192321.jpg",
@@ -9774,7 +9790,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 671,
-    "total_storage_bytes": 488006657
+    "total_lifetime_uploads": 672,
+    "total_storage_bytes": 488251105
   }
 }
