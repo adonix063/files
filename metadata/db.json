@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "aaee5e9a",
+        "name": "aaee5e9a.jpeg",
+        "originalName": "banner.jpeg",
+        "size": 76390,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/aaee5e9a1.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/aaee5e9a.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/aaee5e9a.jpeg",
+        "uploadDate": 1781753172672,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "7e95df12",
         "name": "7e95df12.jpg",
         "originalName": "fondo cali 💘_20260617192321.jpg",
@@ -9742,7 +9758,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 669,
-    "total_storage_bytes": 484573401
+    "total_lifetime_uploads": 670,
+    "total_storage_bytes": 484649791
   }
 }
