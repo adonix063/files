@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "d29aa177",
+        "name": "d29aa177.mp4",
+        "originalName": "ssstik.io_@giyu.fx_1762706965580.mp4",
+        "size": 2815917,
+        "type": "video/mp4",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/d29aa1770.mp4",
+        "url": "https://cdn.adoolab.xyz/dl/d29aa177.mp4",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/d29aa177.mp4",
+        "uploadDate": 1781807831503,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "b64d9115",
         "name": "b64d9115.jpg",
         "originalName": "gohan.jpg",
@@ -9870,7 +9886,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 677,
-    "total_storage_bytes": 488671340
+    "total_lifetime_uploads": 678,
+    "total_storage_bytes": 491487257
   }
 }
