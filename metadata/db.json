@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "b64d9115",
+        "name": "b64d9115.jpg",
+        "originalName": "gohan.jpg",
+        "size": 244448,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/b64d91152.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/b64d9115.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/b64d9115.jpg",
+        "uploadDate": 1781807757043,
+        "expiration": "30d",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "cbe6335e",
         "name": "cbe6335e.jpeg",
         "originalName": "banner.jpeg",
@@ -9854,7 +9870,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 676,
-    "total_storage_bytes": 488426892
+    "total_lifetime_uploads": 677,
+    "total_storage_bytes": 488671340
   }
 }
