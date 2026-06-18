@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "7e95df12",
+        "name": "7e95df12.jpg",
+        "originalName": "fondo cali 💘_20260617192321.jpg",
+        "size": 3356866,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/7e95df120.jpg",
+        "url": "https://cdn.adoolab.xyz/dl/7e95df12.jpg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/7e95df12.jpg",
+        "uploadDate": 1781748539060,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "f5f27ee8",
         "name": "f5f27ee8.jpeg",
         "originalName": "upload.jpeg",
@@ -9726,7 +9742,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 668,
-    "total_storage_bytes": 481216535
+    "total_lifetime_uploads": 669,
+    "total_storage_bytes": 484573401
   }
 }
