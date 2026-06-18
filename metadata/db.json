@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "a819b477",
+        "name": "a819b477.jpeg",
+        "originalName": "banner.jpeg",
+        "size": 44561,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/a819b4772.jpeg",
+        "url": "https://cdn.adoolab.xyz/dl/a819b477.jpeg",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/a819b477.jpeg",
+        "uploadDate": 1781791296590,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "26172862",
         "name": "26172862.jpg",
         "originalName": "Prime.jpg",
@@ -9790,7 +9806,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 672,
-    "total_storage_bytes": 488251105
+    "total_lifetime_uploads": 673,
+    "total_storage_bytes": 488295666
   }
 }
