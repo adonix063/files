@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "3321ca60",
+        "name": "3321ca60.png",
+        "originalName": "__mika_blue_archive_drawn_by_moca_o0_iii__24f0fc593419bdc65588fc6186f8a128.png",
+        "size": 6818450,
+        "type": "image/png",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/3321ca601.png",
+        "url": "https://cdn.adoolab.xyz/dl/3321ca60.png",
+        "previewUrl": "https://cdn.adoolab.xyz/dl/3321ca60.png",
+        "uploadDate": 1781927550962,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "7473c039",
         "name": "7473c039.jpeg",
         "originalName": "upload.jpeg",
@@ -10766,7 +10782,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 733,
-    "total_storage_bytes": 518085697
+    "total_lifetime_uploads": 734,
+    "total_storage_bytes": 524904147
   }
 }
