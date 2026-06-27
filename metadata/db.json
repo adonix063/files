@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "8a9d5858",
+        "name": "Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex.mp3:8a9d5858.mp3",
+        "originalName": "Dalex - Hola Remix ft. Lenny Tavárez, Chencho Corleone, Juhn El All Star (Video Lírico Oficial) - Dalex.mp3",
+        "size": 4025644,
+        "type": "audio/mpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/8a9d58581.mp3",
+        "url": "https://cdn.adoolab.xyz/dl/Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex.mp3%3A8a9d5858.mp3",
+        "uploadDate": 1782527786024,
+        "expiration": "5m",
+        "method": "url",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "15e5a81e",
         "name": "Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex.mp3:15e5a81e.mp3",
         "originalName": "Dalex - Hola Remix ft. Lenny Tavárez, Chencho Corleone, Juhn El All Star (Video Lírico Oficial) - Dalex.mp3",
@@ -12585,7 +12600,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 847,
-    "total_storage_bytes": 569331283
+    "total_lifetime_uploads": 848,
+    "total_storage_bytes": 573356927
   }
 }
