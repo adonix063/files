@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "9fea0bf9",
+        "name": "Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex.mp3:9fea0bf9.mp3",
+        "originalName": "Dalex - Hola Remix ft. Lenny Tavárez, Chencho Corleone, Juhn El All Star (Video Lírico Oficial) - Dalex.mp3",
+        "size": 4025644,
+        "type": "audio/mpeg",
+        "repo": "adonix063/files-3",
+        "githubPath": "uploads/9fea0bf92.mp3",
+        "url": "https://cdn.adoolab.xyz/dl/Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex.mp3%3A9fea0bf9.mp3",
+        "uploadDate": 1782615833231,
+        "expiration": "5m",
+        "method": "url",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "3bc5e4cd",
         "name": "Afusic-PalPalOfficialMusicVideoProdAliSoomroMusic-AFUSIC720ph264.mp4:3bc5e4cd.mp4",
         "originalName": "Afusic - Pal Pal (Official Music Video) Prod. AliSoomroMusic - AFUSIC (720p, h264).mp4",
@@ -12668,7 +12683,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 868,
-    "total_storage_bytes": 556561498
+    "total_lifetime_uploads": 869,
+    "total_storage_bytes": 560587142
   }
 }
