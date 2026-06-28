@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "397b2f1d",
+        "name": "PauloLondra-TalVezOfficialVideo-PauloLondra720ph264.mp4:397b2f1d.mp4",
+        "originalName": "Paulo Londra - Tal Vez (Official Video) - Paulo Londra (720p, h264).mp4",
+        "size": 33402075,
+        "type": "video/mp4",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/397b2f1d1.mp4",
+        "url": "https://cdn.adoolab.xyz/dl/PauloLondra-TalVezOfficialVideo-PauloLondra720ph264.mp4%3A397b2f1d.mp4",
+        "uploadDate": 1782616204444,
+        "expiration": "5m",
+        "method": "url",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "465ebaf6",
         "name": "PauloLondra-TalVezOfficialVideo-PauloLondra.mp3:465ebaf6.mp3",
         "originalName": "Paulo Londra - Tal Vez (Official Video) - Paulo Londra.mp3",
@@ -12848,7 +12863,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 880,
-    "total_storage_bytes": 622779649
+    "total_lifetime_uploads": 881,
+    "total_storage_bytes": 656181724
   }
 }
