@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "bdc905bb",
+        "name": "Afusic-PalPalOfficialMusicVideoProdAliSoomroMusic-AFUSIC.mp3:bdc905bb.mp3",
+        "originalName": "Afusic - Pal Pal (Official Music Video) Prod. AliSoomroMusic - AFUSIC.mp3",
+        "size": 2359815,
+        "type": "audio/mpeg",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/bdc905bb1.mp3",
+        "url": "https://cdn.adoolab.xyz/dl/Afusic-PalPalOfficialMusicVideoProdAliSoomroMusic-AFUSIC.mp3%3Abdc905bb.mp3",
+        "uploadDate": 1782613352829,
+        "expiration": "5m",
+        "method": "url",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "3eb3af86",
         "name": "3eb3af86.jpeg",
         "originalName": "01de54c9-963d-41e1-8907-f712de7e6ba6.jpeg",
@@ -12638,7 +12653,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 866,
-    "total_storage_bytes": 539551117
+    "total_lifetime_uploads": 867,
+    "total_storage_bytes": 541910932
   }
 }
