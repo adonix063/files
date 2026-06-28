@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "284e97f6",
+        "name": "Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex720ph264.mp4:284e97f6.mp4",
+        "originalName": "Dalex - Hola Remix ft. Lenny Tavárez, Chencho Corleone, Juhn El All Star (Video Lírico Oficial) - Dalex (720p, h264).mp4",
+        "size": 19009312,
+        "type": "video/mp4",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/284e97f60.mp4",
+        "url": "https://cdn.adoolab.xyz/dl/Dalex-HolaRemixftLennyTavrezChenchoCorleoneJuhnElAllStarVideoLricoOficial-Dalex720ph264.mp4%3A284e97f6.mp4",
+        "uploadDate": 1782616112961,
+        "expiration": "5m",
+        "method": "url",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "80e28a27",
         "name": "PauloLondra-TalVezOfficialVideo-PauloLondra.mp3:80e28a27.mp3",
         "originalName": "Paulo Londra - Tal Vez (Official Video) - Paulo Londra.mp3",
@@ -12773,7 +12788,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 875,
-    "total_storage_bytes": 586366981
+    "total_lifetime_uploads": 876,
+    "total_storage_bytes": 605376293
   }
 }
