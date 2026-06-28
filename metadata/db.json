@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "08d01124",
+        "name": "08d01124.jpg",
+        "originalName": "1782623501671_imagen.jpg",
+        "size": 56194,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/08d011240",
+        "url": "https://adofiles.vercel.app/dl/08d01124.jpg",
+        "previewUrl": "https://adofiles.vercel.app/dl/08d01124.jpg",
+        "uploadDate": 1782623503664,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "83e91608",
         "name": "Nano-voimiid.jpg:83e91608.jpg",
         "originalName": "RDT_20260531_1859361587549569620269452.jpg",
@@ -12670,7 +12686,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 883,
-    "total_storage_bytes": 539965041
+    "total_lifetime_uploads": 884,
+    "total_storage_bytes": 540021235
   }
 }
