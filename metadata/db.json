@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "3d55b968",
+        "name": "3d55b968.jpg",
+        "originalName": "1783292000141_imagen.jpg",
+        "size": 63156,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/3d55b9683",
+        "url": "https://adofiles.vercel.app/dl/3d55b968.jpg",
+        "previewUrl": "https://adofiles.vercel.app/dl/3d55b968.jpg",
+        "uploadDate": 1783292002096,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "54773b47",
         "name": "54773b47.m4a",
         "originalName": "1783101824955_audio.m4a",
@@ -13148,7 +13164,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 913,
-    "total_storage_bytes": 543648549
+    "total_lifetime_uploads": 914,
+    "total_storage_bytes": 543711705
   }
 }
