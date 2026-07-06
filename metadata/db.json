@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "0b4c0d1e",
+        "name": "0b4c0d1e.jpg",
+        "originalName": "1783344562710_imagen.jpg",
+        "size": 52520,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/0b4c0d1e3",
+        "url": "https://adofiles.vercel.app/dl/0b4c0d1e.jpg",
+        "previewUrl": "https://adofiles.vercel.app/dl/0b4c0d1e.jpg",
+        "uploadDate": 1783344563880,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "68799b5b",
         "name": "68799b5b.jpg",
         "originalName": "1783344555702_imagen.jpg",
@@ -13228,7 +13244,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 918,
-    "total_storage_bytes": 547038453
+    "total_lifetime_uploads": 919,
+    "total_storage_bytes": 547090973
   }
 }
