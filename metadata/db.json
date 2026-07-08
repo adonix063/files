@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "48fde404",
+        "name": "48fde404.mp4",
+        "originalName": "1783470022820_video.mp4",
+        "size": 2034625,
+        "type": "video/mp4",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/48fde4040",
+        "url": "https://adofiles.vercel.app/dl/48fde404.mp4",
+        "previewUrl": "https://adofiles.vercel.app/dl/48fde404.mp4",
+        "uploadDate": 1783470027076,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "97e1d009",
         "name": "97e1d009.jpg",
         "originalName": "1783379182892_imagen.jpg",
@@ -13292,7 +13308,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 922,
-    "total_storage_bytes": 547424793
+    "total_lifetime_uploads": 923,
+    "total_storage_bytes": 549459418
   }
 }
