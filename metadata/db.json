@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "76dac899",
+        "name": "76dac899.jpeg",
+        "originalName": "tienda_1783714347366.jpeg",
+        "size": 30726,
+        "type": "image/jpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/76dac8993",
+        "url": "https://adofiles.vercel.app/dl/76dac899.jpeg",
+        "previewUrl": "https://adofiles.vercel.app/dl/76dac899.jpeg",
+        "uploadDate": 1783714348170,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "6d7814de",
         "name": "6d7814de.jpeg",
         "originalName": "tienda_1783714321948.jpeg",
@@ -13403,7 +13419,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 929,
-    "total_storage_bytes": 553802269
+    "total_lifetime_uploads": 930,
+    "total_storage_bytes": 553832995
   }
 }
