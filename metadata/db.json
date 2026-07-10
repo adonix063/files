@@ -3,6 +3,21 @@
     "id": "default",
     "files": [
       {
+        "id": "ff8116d3",
+        "name": "ff8116d3.txt",
+        "originalName": "hola.txt",
+        "size": 11,
+        "type": "text/plain",
+        "repo": "adonix063/files-2",
+        "githubPath": "uploads/ff8116d31",
+        "url": "https://adofiles.vercel.app/dl/ff8116d3.txt",
+        "uploadDate": 1783713703197,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "af9a65f6",
         "name": "af9a65f6.mp4",
         "originalName": "1783688513325_video.mp4",
@@ -13356,7 +13371,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 926,
-    "total_storage_bytes": 553615239
+    "total_lifetime_uploads": 927,
+    "total_storage_bytes": 553615250
   }
 }
