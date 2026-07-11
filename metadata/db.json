@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "4af68554",
+        "name": "4af68554.jpg",
+        "originalName": "zoner_1783803120317_0.jpg",
+        "size": 756670,
+        "type": "image/jpeg",
+        "repo": "adonix063/files",
+        "githubPath": "uploads/4af685540",
+        "url": "https://adofiles.vercel.app/dl/4af68554.jpg",
+        "previewUrl": "https://adofiles.vercel.app/dl/4af68554.jpg",
+        "uploadDate": 1783803121859,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "1997c4a8",
         "name": "1997c4a8.txt",
         "originalName": "hola.txt",
@@ -13482,7 +13498,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 934,
-    "total_storage_bytes": 554235218
+    "total_lifetime_uploads": 935,
+    "total_storage_bytes": 554991888
   }
 }
