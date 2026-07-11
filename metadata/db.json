@@ -3,6 +3,22 @@
     "id": "default",
     "files": [
       {
+        "id": "ee573c44",
+        "name": "ee573c44.mp3",
+        "originalName": "adonix_1783803457701.mp3",
+        "size": 76094,
+        "type": "audio/mpeg",
+        "repo": "adonix063/files-4",
+        "githubPath": "uploads/ee573c443",
+        "url": "https://adofiles.vercel.app/dl/ee573c44.mp3",
+        "previewUrl": "https://adofiles.vercel.app/dl/ee573c44.mp3",
+        "uploadDate": 1783803458851,
+        "expiration": "never",
+        "method": "base64",
+        "isChunked": false,
+        "totalChunks": 1
+      },
+      {
         "id": "4af68554",
         "name": "4af68554.jpg",
         "originalName": "zoner_1783803120317_0.jpg",
@@ -13498,7 +13514,7 @@
     ]
   },
   "systemStats": {
-    "total_lifetime_uploads": 935,
-    "total_storage_bytes": 554991888
+    "total_lifetime_uploads": 936,
+    "total_storage_bytes": 555067982
   }
 }
